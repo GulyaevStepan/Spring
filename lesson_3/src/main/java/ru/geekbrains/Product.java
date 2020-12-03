@@ -60,4 +60,5 @@ public class Product {
     public void setPersons(List<Person> persons) {
         this.persons = persons;
     }
+    
 }
